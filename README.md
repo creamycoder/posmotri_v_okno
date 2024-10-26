@@ -1,1 +1,1 @@
-https://github.com/creamycoder/posmotri_v_okno
+https://github.com/creamycoder/posmotri_v_okno.git
